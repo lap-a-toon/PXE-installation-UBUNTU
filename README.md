@@ -8,8 +8,8 @@
 
 ## Подготовка:
 
-1. Скачиваем образ Ubuntu 20.04.6 с (http://releases.ubuntu.com/20.04.6/ubuntu-20.04.6-desktop-amd64.iso)[официального сайта]
-2. Будем использовать образ системы Syslinux, скачанный с (https://www.kernel.org/pub/linux/utils/boot/syslinux/)[www.kernel.org]. Из него нам понядобятся только некоторые файлы:
+1. Скачиваем образ Ubuntu 20.04.6 с [официального сайта](http://releases.ubuntu.com/20.04.6/ubuntu-20.04.6-desktop-amd64.iso)
+2. Будем использовать образ системы Syslinux, скачанный с [www.kernel.org](https://www.kernel.org/pub/linux/utils/boot/syslinux/). Из него нам понядобятся только некоторые файлы:
     - chain.c32
     - ldlinux.c32
     - libcom32.c32
